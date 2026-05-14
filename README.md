@@ -130,9 +130,5 @@ $openRouterApiKey = "YOUR_OPENROUTER_API_KEY";
 - Budget recommendations
 
 ## Author
-Your Name
+Sharayu Kotkar
 
-If you are sharing this project publicly, consider adding your:
-- GitHub profile
-- LinkedIn
-- Portfolio website
