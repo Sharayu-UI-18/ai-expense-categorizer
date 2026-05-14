@@ -110,16 +110,18 @@ $openRouterApiKey = "YOUR_OPENROUTER_API_KEY";
 ```
 
 ## Screenshots
-Add screenshots here after running the app.
 
-### Dashboard
-![Dashboard Screenshot](assets/images/screenshot-dashboard.png)
-
-### Expense Form + AI Suggestion
-![Expense Form Screenshot](assets/images/screenshot-form-ai.png)
+### Analyze Expense Dashboard
+![Analyze Expense](screenshots/expense-analysis.png)
 
 ### Transaction History
-![History Screenshot](assets/images/screenshot-history.png)
+![Transaction History](screenshots/transaction-history.png)
+
+### AI Suggestions & Insights
+![AI Suggestion](screenshots/ai-suggestion.png)
+
+### Expense Categories Dashboard
+![Expense Categories](screenshots/categories-dashboard.png)
 
 ## Future Improvements
 - Voice input
